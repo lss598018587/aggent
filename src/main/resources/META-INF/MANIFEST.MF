@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: wangmiao
+Can-Redefine-Classes: true
+Premain-Class: com.miao.demo.agent.HotAgent
